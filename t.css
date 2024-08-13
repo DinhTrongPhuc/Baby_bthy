@@ -11,6 +11,9 @@ body {
     grid-template-columns: 200px 150px;
     grid-template-rows: 120px 113px;
     z-index: 1;
+    margin: auto;
+    align-items: center;
+    font-style: italic;
   }
   
   .lid-front {
